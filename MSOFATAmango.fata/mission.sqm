@@ -16,11 +16,11 @@ class EditorData
 	};
 	class LayerIndexProvider
 	{
-		nextID=1267;
+		nextID=1304;
 	};
 	class Camera
 	{
-		pos[]={2120.4243,75.563316,265.99918};
+		pos[]={2210.1035,122.40907,234.85609};
 		dir[]={-0.42799482,-0.89560562,0.1213871};
 		up[]={-0.86171782,0.44463858,0.24439774};
 		aside[]={0.27285767,1.1571683e-007,0.9620626};
@@ -2664,7 +2664,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="0.2";
+							value="0";
 						};
 					};
 				};
@@ -9827,8 +9827,8 @@ class Mission
 			dataType="Logic";
 			class PositionInfo
 			{
-				position[]={1898.9303,15.949976,216.22475};
-				angles[]={6.259202,0,0.026381513};
+				position[]={1898.9301,15.949974,216.22501};
+				angles[]={6.2592044,0,0.026389377};
 			};
 			id=740;
 			type="ALiVE_mil_placement";
@@ -10153,7 +10153,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="Random";
+							value="Infantry";
 						};
 					};
 				};
