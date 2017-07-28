@@ -185,7 +185,7 @@ class AddonsMetaData
 {
 	class List
 	{
-		items=118;
+		items=119;
 		class Item0
 		{
 			className="A3_Ui_F";
@@ -452,6 +452,7 @@ class AddonsMetaData
 		class Item41
 		{
 			className="RH_acc";
+			name="RH_acc";
 		};
 		class Item42
 		{
