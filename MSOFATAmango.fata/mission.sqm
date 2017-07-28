@@ -16,14 +16,14 @@ class EditorData
 	};
 	class LayerIndexProvider
 	{
-		nextID=1156;
+		nextID=1193;
 	};
 	class Camera
 	{
-		pos[]={1970.8916,596.5733,-447.04602};
-		dir[]={0.12511002,-0.73645627,0.66496277};
-		up[]={0.13617268,0.67646289,0.72376078};
-		aside[]={0.98284149,1.4173565e-007,-0.18492062};
+		pos[]={1991.1321,265.67627,-38.903534};
+		dir[]={-0.066466413,-0.52786201,0.84684604};
+		up[]={-0.04130717,0.84928584,0.5262931};
+		aside[]={0.99702531,-7.4204581e-007,0.078250632};
 	};
 };
 binarizationWanted=0;
@@ -3523,7 +3523,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="1000";
+							value="700";
 						};
 					};
 				};
@@ -3675,7 +3675,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="0.1";
+							value="0.3";
 						};
 					};
 				};
@@ -4407,6 +4407,7 @@ class Mission
 			};
 			id=16;
 			type="ALiVE_mil_placement";
+			atlOffset=7.6293945e-006;
 			class CustomAttributes
 			{
 				class Attribute0
@@ -21714,7 +21715,8 @@ class Mission
 			dataType="Logic";
 			class PositionInfo
 			{
-				position[]={2155.2876,20.104599,238.97339};
+				position[]={1954.308,19.593483,227.718};
+				angles[]={6.2735863,0,0.074228846};
 			};
 			id=2666;
 			type="ALiVE_mil_placement_custom";
@@ -21811,7 +21813,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="2";
+							value="5";
 						};
 					};
 				};
@@ -21868,7 +21870,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="1";
+							value="0";
 						};
 					};
 				};
@@ -22262,7 +22264,7 @@ class Mission
 									"STRING"
 								};
 							};
-							value="3";
+							value="2";
 						};
 					};
 				};
