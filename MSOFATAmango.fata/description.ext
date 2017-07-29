@@ -1,1 +1,2 @@
 #include "pxs_satcom_a3\init_interface.hpp"
+enableDebugConsole = 1;
